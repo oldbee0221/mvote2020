@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619424381313",
+    "firebase_url": "https://mvote2020.firebaseio.com",
+    "project_id": "mvote2020",
+    "storage_bucket": "mvote2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619424381313:android:ce18a989a7dd5409a7d080",
+        "android_client_info": {
+          "package_name": "com.mirine.mvote2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619424381313-o5n39fch61oplrak3b4uilrbjg2shigk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxstZgOZ8Po7yJETLYCZHeRGDMo4JkqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619424381313-o5n39fch61oplrak3b4uilrbjg2shigk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
